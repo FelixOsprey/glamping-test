@@ -1,5 +1,5 @@
 import infoSection from "../components/infosection-comp/infoSection";
-import PageHeader from "../components/pageheader-comp/PageHeader";
+import PageHeader from "../components/pageheader-comp/pageHeader";
 import Reviews from "../components/review-comp/review";
 
 import logo from "/logo.png";
